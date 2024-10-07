@@ -1,17 +1,11 @@
-discord
+discord.py
+python-dotenv
 aiohttp
-os
-dotenv
-logging
-logging.handlers
-asyncio
-aiosqlite
-json
-datetime
+fastapi
+uvicorn
+pydantic
 numpy
-uuid
-time
-random
-requests
+scikit-learn
+sqlite3
 ## run the command below to install all libraries and req to run this bot, before running anything.
 ## pip install -r requirements.txt
