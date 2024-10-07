@@ -1,6 +1,7 @@
 /// **GEMATRIA AI** ///
 
-
+Discussion [ https://x.com/alytv13                          
+https://discord.gg/aAa348YGe4 ]
 
 Very early functioning preview of a program which executes the following functionality: 
 
