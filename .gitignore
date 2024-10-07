@@ -1,25 +1,32 @@
-   # Python
-   __pycache__/
-   *.py[cod]
-   *.so
+# Virtual Environment
+.venv/
+venv/
+env/
 
-   # Environment
-   .env
-   .venv
-   env/
-   venv/
+# Python
+__pycache__/
+*.py[cod]
+*.so
 
-   # Logs
-   *.log
+# Environment variables
+.env
 
-   # Database
-   *.db
-   *.sqlite3
+# Logs
+*.log
 
-   # IDE-specific files
-   .vscode/
-   .idea/
+# Database
+*.db
+*.sqlite3
 
-   # OS-specific files
-   .DS_Store
-   Thumbs.db
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.dylib
+*.so
+*.dll
