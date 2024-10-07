@@ -34,4 +34,4 @@ Thumbs.db
 # Pytorch specific
 torch/
 torchaudio/
-torchvision/
+torchvision/.venv/
