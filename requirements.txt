@@ -1,0 +1,17 @@
+discord
+aiohttp
+os
+dotenv
+logging
+logging.handlers
+asyncio
+aiosqlite
+json
+datetime
+numpy
+uuid
+time
+random
+requests
+## run the command below to install all libraries and req to run this bot, before running anything.
+## pip install -r requirements.txt

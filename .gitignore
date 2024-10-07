@@ -1,0 +1,25 @@
+   # Python
+   __pycache__/
+   *.py[cod]
+   *.so
+
+   # Environment
+   .env
+   .venv
+   env/
+   venv/
+
+   # Logs
+   *.log
+
+   # Database
+   *.db
+   *.sqlite3
+
+   # IDE-specific files
+   .vscode/
+   .idea/
+
+   # OS-specific files
+   .DS_Store
+   Thumbs.db
