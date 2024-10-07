@@ -1,3 +1,0 @@
-.venv/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
-*.dylib filter=lfs diff=lfs merge=lfs -text
-**/*.dylib filter=lfs diff=lfs merge=lfs -text
