@@ -12,7 +12,12 @@ Very early functioning preview of a program which executes the following functio
 
 #
 
-### Setup: 
+### [Roadmap](https://github.com/Nikodeam/Gematria/wiki/Roadmap-v0)
+Available on Discord with more frequent updates.
+
+#
+
+### Setup 
 (Beforehand Information - this setup is used on 2 of my machines, my Macbook Pro M1 and Ryzen/Nvidia PC. Mac running the entire Chat History Service and one 7B Llama. PC running 3-6 other LLMs.
 Chat History Service is being hosted and available via API calls on my local network from my Mac, the Bots/LLMs running on my PC are utilizing it. Each bot has its own LLM loaded on LM Studio.)
 
