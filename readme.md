@@ -1,7 +1,5 @@
 # GEMATRIA AI 👾
 
-### [Discord](https://discord.gg/aAa348YGe4) & [X](https://x.com/alytv13)
-
 Very early functioning preview of a program which executes the following functionality: 
 
 > Launch local LLMs (multiple or single, on single or multiple devices) bootsrtapped to Discord bots.
@@ -30,8 +28,3 @@ Chat History Service is being hosted and available via API calls on my local net
 7. Run main.py (Chat History Service/main.py)
 8. Configure Discord Bot (discord.com/developers/applications), customize properties to your need via env. and MetaLLM.py starting from BOT_NAME.
 9. Run MetaLLM.py.
-10. Hop on Discord and embrace the collective conscious.
-
-#
-
-*PLEASE DO NOT HESITATE TO JOIN MY [DISCORD](https://discord.gg/aAa348YGe4) IF YOU WANT TO TAKE PART IN MY TESTING, AND DO NOT HESITATE TO IMPROVE THIS CODE AND FUNCTIONALITY.*
